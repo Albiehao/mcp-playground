@@ -1,0 +1,7 @@
+exceptiongroup
+fastmcp
+gradio
+http://modelscope-agent.oss-cn-hangzhou.aliyuncs.com/releases/v0.8.1/modelscope_agent-0.8.1-py3-none-any.whl
+mcp>=1.9.4
+modelscope_studio==1.4.0
+oss2
